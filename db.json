@@ -1,7 +1,7 @@
 {
    "CO":[
       {
-         "product-name":"MEN'S BETTER THAN NAKED&trade; JACKET",
+         "title":"MEN'S BETTER THAN NAKED&trade; JACKET",
          "product-image-url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
          "header-top-right-text":"Shop All",
          "header-top-left-text":"Men's",
@@ -10,7 +10,7 @@
          "product-cta-text":"Shop Now"
       },
       {
-         "product-name":"WOMEN'S BETTER THAN NAKED&trade; JACKET",
+         "title":"WOMEN'S BETTER THAN NAKED&trade; JACKET",
          "product-image-url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
          "header-top-right-text":"Shop All",
          "header-top-left-text":"Women's",
@@ -19,7 +19,7 @@
          "product-cta-text":"Shop Now"
       },
       {
-         "product-name":"WOMEN'S SINGLE-TRACK SHOE",
+         "title":"WOMEN'S SINGLE-TRACK SHOE",
          "product-image-url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
          "header-top-right-text":"Shop All",
          "header-top-left-text":"Running Shoes",
@@ -28,7 +28,7 @@
          "product-cta-text":"Shop Now"
       },
       {
-         "product-name":"Enduro Boa&reg; Hydration Pack",
+         "title":"Enduro Boa&reg; Hydration Pack",
          "product-image-url":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
          "header-top-right-text":"Shop All",
          "header-top-left-text":"Equipment",
